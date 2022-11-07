@@ -1,0 +1,1 @@
+MSH|^~\&|Sending App|Comp1ReadFiletoHL7_Final|Receiving App|Receiving Facility|20221107100824539||ADT^A04|ADTA0420221107100824539|T|2.5.1|||EVN|A04||20221107100824539|||||PID|||148||Ramirez^Madaline||||||4138 Nec, Rd.^^^^2821||1-622-815-8087|||||||||||PV1||E|||||||||||||||||319949|||||||||||||||||||||||||202212041757|||||||||||PV2|||id ante dictum cursus. Nunc|||||||||||

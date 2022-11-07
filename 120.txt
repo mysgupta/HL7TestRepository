@@ -1,0 +1,1 @@
+MSH|^~\&|Sending App|Comp1ReadFiletoHL7_Final|Receiving App|Receiving Facility|20221107100824281||ADT^A04|ADTA0420221107100824281|T|2.5.1|||EVN|A04||20221107100824281|||||PID|||120||Powell^Zenia||||||301-395 Mi Rd.^^^^6672||1-856-214-9551|||||||||||PV1||E|||||||||||||||||221167|||||||||||||||||||||||||202303101014|||||||||||PV2|||lacus pede sagittis augue, eu|||||||||||
